@@ -1,0 +1,17 @@
+svg {
+    /* background-color: aliceblue; */
+    width: 60px;
+    height: 60px;
+  }
+  svg path {
+    fill: #3b83bd;
+  }
+  .img-fit {
+    object-fit: cover;
+  }
+  .h-card-title {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
